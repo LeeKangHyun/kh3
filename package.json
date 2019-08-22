@@ -1,6 +1,6 @@
 {
   "name": "kh3",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "kang hyun's utility",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
