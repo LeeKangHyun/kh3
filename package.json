@@ -1,11 +1,20 @@
 {
   "name": "kh3",
   "version": "0.0.1",
-  "description": "kang hyun",
+  "description": "kang hyun's utility",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeKangHyun/kh3.git"
+  },
+  "keywords": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "KangHyun Lee <rkdgusdl92+it@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeeKangHyun/kh3/issues"
+  },
+  "homepage": "https://github.com/LeeKangHyun/kh3#readme"
 }
